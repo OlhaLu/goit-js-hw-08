@@ -1,0 +1,36 @@
+body{
+  display: block;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.test-section {
+  border: 3px solid rgb(109, 109, 156);;
+  margin:  0 100px;
+}
+section{
+  border: 1px solid rgb(109, 109, 156);;
+  margin: 0 50px;
+}
+
+.mainTitle {
+  font-size: 28px;
+  text-align: center;
+  color: rgb(109, 109, 156);
+  padding: 10px 0;
+}
+
+.button {
+  display: block;
+  position: relative;
+  margin: 10px auto;
+  background:  rgb(109, 109, 156);
+  border: 3px solid beige;
+  color: beige;
+  font-size: 16px;
+  text-align: center;
+  padding: 10px 30px;
+}
